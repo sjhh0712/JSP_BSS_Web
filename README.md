@@ -4,8 +4,7 @@
 자신이 작성한 글이 아닐 경우 수정 및 삭제가 불가능하다.</span>
 <br></br><br></br>  
 
-1. 게시판 메인 홈
------------------------------------
+## 1. 게시판 메인 홈
 <br></br>
 ![BBS_main](https://user-images.githubusercontent.com/49848867/193778495-0809eed7-e53d-4d4c-ae32-1e5bb817a220.PNG)
 <br></br>
