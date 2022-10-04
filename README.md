@@ -52,4 +52,5 @@
 -----------------------------------
 <br></br>
 ![BBS_otherContent](https://user-images.githubusercontent.com/49848867/193778674-d8df3438-49f0-4e85-8314-f4c74fcefe4c.PNG)
+  * 자신의 글이 아니면 수정/삭제 버튼이 보이지 않는다.
 <br></br>
